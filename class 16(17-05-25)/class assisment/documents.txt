@@ -1,0 +1,11 @@
+1) first we create a diuctonary empty_dict = {}
+    empty_dict = dict()
+
+2) by deafult hum dictionary ko empty rahky gy and after that we update values    
+
+
+3) we use json.dump basiacally we use json module in pytthon that is (javascript object notataion) that is a format that is used to store and lightweight for sharing and usually store in all language .
+
+4)json.dump() convert and list and dictionary into json file and save in to save directary position ,
+
+5) json.load() read json file in python

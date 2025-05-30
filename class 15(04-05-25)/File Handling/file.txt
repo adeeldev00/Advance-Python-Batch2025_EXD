@@ -1,0 +1,11 @@
+1. My name is Adeel.
+2. I am learning Python programming.
+3. I'm working on a meme generator project.
+4. Currently troubleshooting image display issues.
+5. My project folder is in Advanced_Python_Programming.
+6. I'm taking a Python course by EXD.
+7. My files are stored in Programming Data by Adeel.
+8. I'm working with local image files now.
+9. I want to display memes with captions only.
+10. Goal: Become a proficient Python developer.
+hello worldhello worldhello worldhello world

@@ -1,0 +1,1 @@
+print("day1 code ")

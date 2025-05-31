@@ -1,0 +1,4 @@
+1) constant kaya hota hai jo python me kabi chnage nahi hota 
+  constant start with capital leter ,SPEED_OF_LIGHT = 299792458  # meters per second
+  python me kuch prebulid contants hai like 
+  (True , Flase , None , Ellipsis , ... , NOtImplemetred , __debug__ ,)

@@ -35,8 +35,14 @@ from typing import Callable
 def multiply(x: int, y: int) -> int:
     return x * y
 
+def add(x:int,y:int)->int:
+    return x + y
+
 calc: Callable[[int, int], int] = multiply
+calc1:Callable[[int,int],int]=add
+print('exmaple 2')
 print(calc(5, 3))  # Output: 15
+print(calc1(4,96))
 
 
 
